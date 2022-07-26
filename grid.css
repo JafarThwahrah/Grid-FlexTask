@@ -39,9 +39,9 @@ section > img:nth-of-type(n+1){
 article{
     display: grid;
     grid-template-columns: 480px 480px ;
-    column-gap: 20px;
+    column-gap: 30px;
     justify-content: center;
-    margin-left: -170px;
+    margin-left: 415px;
 }
 
 article P {
